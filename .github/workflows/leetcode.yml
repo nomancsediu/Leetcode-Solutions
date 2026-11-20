@@ -1,0 +1,29 @@
+name: Daily LeetCode
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # BD time raat 12:30
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate solution
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python leet_auto.py
+      - name: Commit and push
+        run: |
+          git config user.name "nomancsediu"
+          git config user.email "YOUR_GITHUB_EMAIL"
+          git add -A
+          git diff --cached --quiet || git commit -m "Add daily LeetCode solution: $(date -u +%F)"
+          git push
