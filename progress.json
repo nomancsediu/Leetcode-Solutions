@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "difficulty": "Easy",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0001-two-sum",
+    "status": "done"
+  },
+  {
+    "id": 217,
+    "title": "Contains Duplicate",
+    "slug": "contains-duplicate",
+    "difficulty": "Easy",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0217-contains-duplicate",
+    "status": "done"
+  },
+  {
+    "id": 242,
+    "title": "Valid Anagram",
+    "slug": "valid-anagram",
+    "difficulty": "Easy",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0242-valid-anagram",
+    "status": "done"
+  }
+]
