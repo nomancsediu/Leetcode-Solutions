@@ -23,7 +23,7 @@ jobs:
       - name: Commit and push
         run: |
           git config user.name "nomancsediu"
-          git config user.email "YOUR_GITHUB_EMAIL"
+          git config user.email "abdnoman720@gmail.com"
           git add -A
           git diff --cached --quiet || git commit -m "Add daily LeetCode solution: $(date -u +%F)"
           git push
