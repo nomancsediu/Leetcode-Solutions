@@ -1,7 +1,7 @@
 import os, re, json, urllib.request, urllib.error
 
 GROQ_KEY = os.environ["GROQ_API_KEY"]
-MODEL = "llama-3.3-70b-versatile"
+MODEL = "openai/gpt-oss-120b"
 
 BROWSER_UA = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -19,7 +19,7 @@ def post(url, payload, headers):
         url, data=json.dumps(payload).encode(), headers=headers
     )
     try:
-        return json.load(urllib.request.urlopen(req, timeout=60))
+        return json.load(urllib.request.urlopen(req, timeout=120))
     except urllib.error.HTTPError as e:
         print("HTTP ERROR", e.code, "from", url)
         print(e.read().decode()[:500])
@@ -65,6 +65,7 @@ res = post(
     {
         "model": MODEL,
         "temperature": 0.2,
+        "max_tokens": 4000,
         "response_format": {"type": "json_object"},
         "messages": [{"role": "user", "content": prompt}],
     },
