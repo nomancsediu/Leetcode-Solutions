@@ -2,15 +2,15 @@
 
 Most popular **interview problems**, **topic wise** and ordered **Easy to Hard**. **3 problems/day**, auto-updated with GitHub Actions.
 
-**Progress:** `[--------------------]` **3 / 300**
+**Progress:** `[--------------------]` **6 / 300**
 
-Easy: **3** | Medium: **0** | Hard: **0**
+Easy: **6** | Medium: **0** | Hard: **0**
 
 ## Topics
 
 | # | Topic | Solved |
 |---|-------|--------|
-| 1 | [Array and Hashing](#1-array-and-hashing) | 3 / 30 |
+| 1 | [Array and Hashing](#1-array-and-hashing) | 6 / 30 |
 | 2 | [Two Pointers](#2-two-pointers) | 0 / 15 |
 | 3 | [Strings](#3-strings) | 0 / 20 |
 | 4 | [Sliding Window](#4-sliding-window) | 0 / 11 |
@@ -29,13 +29,16 @@ Easy: **3** | Medium: **0** | Hard: **0**
 
 ## 1. Array and Hashing
 
-**3 / 30 solved**
+**6 / 30 solved**
 
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
 | 1 | [Two Sum](./01-Array-and-Hashing/0001-two-sum) | Easy | [Link](https://leetcode.com/problems/two-sum/) |
 | 217 | [Contains Duplicate](./01-Array-and-Hashing/0217-contains-duplicate) | Easy | [Link](https://leetcode.com/problems/contains-duplicate/) |
 | 242 | [Valid Anagram](./01-Array-and-Hashing/0242-valid-anagram) | Easy | [Link](https://leetcode.com/problems/valid-anagram/) |
+| 169 | [Majority Element](./01-Array-and-Hashing/0169-majority-element) | Easy | [Link](https://leetcode.com/problems/majority-element/) |
+| 136 | [Single Number](./01-Array-and-Hashing/0136-single-number) | Easy | [Link](https://leetcode.com/problems/single-number/) |
+| 268 | [Missing Number](./01-Array-and-Hashing/0268-missing-number) | Easy | [Link](https://leetcode.com/problems/missing-number/) |
 
 ## 2. Two Pointers
 

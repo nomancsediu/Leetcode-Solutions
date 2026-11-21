@@ -25,5 +25,32 @@
     "topic": "Array and Hashing",
     "path": "01-Array-and-Hashing/0242-valid-anagram",
     "status": "done"
+  },
+  {
+    "id": 169,
+    "title": "Majority Element",
+    "slug": "majority-element",
+    "difficulty": "Easy",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0169-majority-element",
+    "status": "done"
+  },
+  {
+    "id": 136,
+    "title": "Single Number",
+    "slug": "single-number",
+    "difficulty": "Easy",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0136-single-number",
+    "status": "done"
+  },
+  {
+    "id": 268,
+    "title": "Missing Number",
+    "slug": "missing-number",
+    "difficulty": "Easy",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0268-missing-number",
+    "status": "done"
   }
 ]
