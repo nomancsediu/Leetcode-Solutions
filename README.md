@@ -2,15 +2,15 @@
 
 Most popular **interview problems**, **topic wise** and ordered **Easy to Hard**. **3 problems/day**, auto-updated with GitHub Actions.
 
-**Progress:** `[--------------------]` **6 / 300**
+**Progress:** `[--------------------]` **9 / 300**
 
-Easy: **6** | Medium: **0** | Hard: **0**
+Easy: **9** | Medium: **0** | Hard: **0**
 
 ## Topics
 
 | # | Topic | Solved |
 |---|-------|--------|
-| 1 | [Array and Hashing](#1-array-and-hashing) | 6 / 30 |
+| 1 | [Array and Hashing](#1-array-and-hashing) | 9 / 30 |
 | 2 | [Two Pointers](#2-two-pointers) | 0 / 15 |
 | 3 | [Strings](#3-strings) | 0 / 20 |
 | 4 | [Sliding Window](#4-sliding-window) | 0 / 11 |
@@ -29,7 +29,7 @@ Easy: **6** | Medium: **0** | Hard: **0**
 
 ## 1. Array and Hashing
 
-**6 / 30 solved**
+**9 / 30 solved**
 
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
@@ -39,6 +39,9 @@ Easy: **6** | Medium: **0** | Hard: **0**
 | 169 | [Majority Element](./01-Array-and-Hashing/0169-majority-element) | Easy | [Link](https://leetcode.com/problems/majority-element/) |
 | 136 | [Single Number](./01-Array-and-Hashing/0136-single-number) | Easy | [Link](https://leetcode.com/problems/single-number/) |
 | 268 | [Missing Number](./01-Array-and-Hashing/0268-missing-number) | Easy | [Link](https://leetcode.com/problems/missing-number/) |
+| 283 | [Move Zeroes](./01-Array-and-Hashing/0283-move-zeroes) | Easy | [Link](https://leetcode.com/problems/move-zeroes/) |
+| 66 | [Plus One](./01-Array-and-Hashing/0066-plus-one) | Easy | [Link](https://leetcode.com/problems/plus-one/) |
+| 121 | [Best Time to Buy and Sell Stock](./01-Array-and-Hashing/0121-best-time-to-buy-and-sell-stock) | Easy | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 
 ## 2. Two Pointers
 

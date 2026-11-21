@@ -52,5 +52,32 @@
     "topic": "Array and Hashing",
     "path": "01-Array-and-Hashing/0268-missing-number",
     "status": "done"
+  },
+  {
+    "id": 283,
+    "title": "Move Zeroes",
+    "slug": "move-zeroes",
+    "difficulty": "Easy",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0283-move-zeroes",
+    "status": "done"
+  },
+  {
+    "id": 66,
+    "title": "Plus One",
+    "slug": "plus-one",
+    "difficulty": "Easy",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0066-plus-one",
+    "status": "done"
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "difficulty": "Easy",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0121-best-time-to-buy-and-sell-stock",
+    "status": "done"
   }
 ]
