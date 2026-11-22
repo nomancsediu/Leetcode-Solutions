@@ -2,15 +2,15 @@
 
 Most popular **interview problems**, **topic wise** and ordered **Easy to Hard**. **3 problems/day**, auto-updated with GitHub Actions.
 
-**Progress:** `[--------------------]` **9 / 300**
+**Progress:** `[--------------------]` **12 / 300**
 
-Easy: **9** | Medium: **0** | Hard: **0**
+Easy: **12** | Medium: **0** | Hard: **0**
 
 ## Topics
 
 | # | Topic | Solved |
 |---|-------|--------|
-| 1 | [Array and Hashing](#1-array-and-hashing) | 9 / 30 |
+| 1 | [Array and Hashing](#1-array-and-hashing) | 12 / 30 |
 | 2 | [Two Pointers](#2-two-pointers) | 0 / 15 |
 | 3 | [Strings](#3-strings) | 0 / 20 |
 | 4 | [Sliding Window](#4-sliding-window) | 0 / 11 |
@@ -29,7 +29,7 @@ Easy: **9** | Medium: **0** | Hard: **0**
 
 ## 1. Array and Hashing
 
-**9 / 30 solved**
+**12 / 30 solved**
 
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
@@ -42,6 +42,9 @@ Easy: **9** | Medium: **0** | Hard: **0**
 | 283 | [Move Zeroes](./01-Array-and-Hashing/0283-move-zeroes) | Easy | [Link](https://leetcode.com/problems/move-zeroes/) |
 | 66 | [Plus One](./01-Array-and-Hashing/0066-plus-one) | Easy | [Link](https://leetcode.com/problems/plus-one/) |
 | 121 | [Best Time to Buy and Sell Stock](./01-Array-and-Hashing/0121-best-time-to-buy-and-sell-stock) | Easy | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 118 | [Pascal's Triangle](./01-Array-and-Hashing/0118-pascals-triangle) | Easy | [Link](https://leetcode.com/problems/pascals-triangle/) |
+| 448 | [Find All Numbers Disappeared in an Array](./01-Array-and-Hashing/0448-find-all-numbers-disappeared-in-an-array) | Easy | [Link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |
+| 205 | [Isomorphic Strings](./01-Array-and-Hashing/0205-isomorphic-strings) | Easy | [Link](https://leetcode.com/problems/isomorphic-strings/) |
 
 ## 2. Two Pointers
 
