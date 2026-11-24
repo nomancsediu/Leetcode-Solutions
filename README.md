@@ -2,15 +2,15 @@
 
 Most popular **interview problems**, **topic wise** and ordered **Easy to Hard**. **3 problems/day**, auto-updated with GitHub Actions.
 
-**Progress:** `[--------------------]` **12 / 300**
+**Progress:** `[#-------------------]` **15 / 300**
 
-Easy: **12** | Medium: **0** | Hard: **0**
+Easy: **13** | Medium: **2** | Hard: **0**
 
 ## Topics
 
 | # | Topic | Solved |
 |---|-------|--------|
-| 1 | [Array and Hashing](#1-array-and-hashing) | 12 / 30 |
+| 1 | [Array and Hashing](#1-array-and-hashing) | 15 / 30 |
 | 2 | [Two Pointers](#2-two-pointers) | 0 / 15 |
 | 3 | [Strings](#3-strings) | 0 / 20 |
 | 4 | [Sliding Window](#4-sliding-window) | 0 / 11 |
@@ -29,7 +29,7 @@ Easy: **12** | Medium: **0** | Hard: **0**
 
 ## 1. Array and Hashing
 
-**12 / 30 solved**
+**15 / 30 solved**
 
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
@@ -45,6 +45,9 @@ Easy: **12** | Medium: **0** | Hard: **0**
 | 118 | [Pascal's Triangle](./01-Array-and-Hashing/0118-pascals-triangle) | Easy | [Link](https://leetcode.com/problems/pascals-triangle/) |
 | 448 | [Find All Numbers Disappeared in an Array](./01-Array-and-Hashing/0448-find-all-numbers-disappeared-in-an-array) | Easy | [Link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |
 | 205 | [Isomorphic Strings](./01-Array-and-Hashing/0205-isomorphic-strings) | Easy | [Link](https://leetcode.com/problems/isomorphic-strings/) |
+| 290 | [Word Pattern](./01-Array-and-Hashing/0290-word-pattern) | Easy | [Link](https://leetcode.com/problems/word-pattern/) |
+| 53 | [Maximum Subarray](./01-Array-and-Hashing/0053-maximum-subarray) | Medium | [Link](https://leetcode.com/problems/maximum-subarray/) |
+| 49 | [Group Anagrams](./01-Array-and-Hashing/0049-group-anagrams) | Medium | [Link](https://leetcode.com/problems/group-anagrams/) |
 
 ## 2. Two Pointers
 

@@ -106,5 +106,32 @@
     "topic": "Array and Hashing",
     "path": "01-Array-and-Hashing/0205-isomorphic-strings",
     "status": "done"
+  },
+  {
+    "id": 290,
+    "title": "Word Pattern",
+    "slug": "word-pattern",
+    "difficulty": "Easy",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0290-word-pattern",
+    "status": "done"
+  },
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "slug": "maximum-subarray",
+    "difficulty": "Medium",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0053-maximum-subarray",
+    "status": "done"
+  },
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "slug": "group-anagrams",
+    "difficulty": "Medium",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0049-group-anagrams",
+    "status": "done"
   }
 ]
