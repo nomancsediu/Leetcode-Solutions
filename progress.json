@@ -133,5 +133,32 @@
     "topic": "Array and Hashing",
     "path": "01-Array-and-Hashing/0049-group-anagrams",
     "status": "done"
+  },
+  {
+    "id": 347,
+    "title": "Top K Frequent Elements",
+    "slug": "top-k-frequent-elements",
+    "difficulty": "Medium",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0347-top-k-frequent-elements",
+    "status": "done"
+  },
+  {
+    "id": 238,
+    "title": "Product of Array Except Self",
+    "slug": "product-of-array-except-self",
+    "difficulty": "Medium",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0238-product-of-array-except-self",
+    "status": "done"
+  },
+  {
+    "id": 36,
+    "title": "Valid Sudoku",
+    "slug": "valid-sudoku",
+    "difficulty": "Medium",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0036-valid-sudoku",
+    "status": "done"
   }
 ]

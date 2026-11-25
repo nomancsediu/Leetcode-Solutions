@@ -2,15 +2,15 @@
 
 Most popular **interview problems**, **topic wise** and ordered **Easy to Hard**. **3 problems/day**, auto-updated with GitHub Actions.
 
-**Progress:** `[#-------------------]` **15 / 300**
+**Progress:** `[#-------------------]` **18 / 300**
 
-Easy: **13** | Medium: **2** | Hard: **0**
+Easy: **13** | Medium: **5** | Hard: **0**
 
 ## Topics
 
 | # | Topic | Solved |
 |---|-------|--------|
-| 1 | [Array and Hashing](#1-array-and-hashing) | 15 / 30 |
+| 1 | [Array and Hashing](#1-array-and-hashing) | 18 / 30 |
 | 2 | [Two Pointers](#2-two-pointers) | 0 / 15 |
 | 3 | [Strings](#3-strings) | 0 / 20 |
 | 4 | [Sliding Window](#4-sliding-window) | 0 / 11 |
@@ -29,7 +29,7 @@ Easy: **13** | Medium: **2** | Hard: **0**
 
 ## 1. Array and Hashing
 
-**15 / 30 solved**
+**18 / 30 solved**
 
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
@@ -48,6 +48,9 @@ Easy: **13** | Medium: **2** | Hard: **0**
 | 290 | [Word Pattern](./01-Array-and-Hashing/0290-word-pattern) | Easy | [Link](https://leetcode.com/problems/word-pattern/) |
 | 53 | [Maximum Subarray](./01-Array-and-Hashing/0053-maximum-subarray) | Medium | [Link](https://leetcode.com/problems/maximum-subarray/) |
 | 49 | [Group Anagrams](./01-Array-and-Hashing/0049-group-anagrams) | Medium | [Link](https://leetcode.com/problems/group-anagrams/) |
+| 347 | [Top K Frequent Elements](./01-Array-and-Hashing/0347-top-k-frequent-elements) | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) |
+| 238 | [Product of Array Except Self](./01-Array-and-Hashing/0238-product-of-array-except-self) | Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/) |
+| 36 | [Valid Sudoku](./01-Array-and-Hashing/0036-valid-sudoku) | Medium | [Link](https://leetcode.com/problems/valid-sudoku/) |
 
 ## 2. Two Pointers
 
