@@ -2,15 +2,15 @@
 
 Most popular **interview problems**, **topic wise** and ordered **Easy to Hard**. **3 problems/day**, auto-updated with GitHub Actions.
 
-**Progress:** `[#-------------------]` **18 / 300**
+**Progress:** `[#-------------------]` **21 / 300**
 
-Easy: **13** | Medium: **5** | Hard: **0**
+Easy: **13** | Medium: **8** | Hard: **0**
 
 ## Topics
 
 | # | Topic | Solved |
 |---|-------|--------|
-| 1 | [Array and Hashing](#1-array-and-hashing) | 18 / 30 |
+| 1 | [Array and Hashing](#1-array-and-hashing) | 21 / 30 |
 | 2 | [Two Pointers](#2-two-pointers) | 0 / 15 |
 | 3 | [Strings](#3-strings) | 0 / 20 |
 | 4 | [Sliding Window](#4-sliding-window) | 0 / 11 |
@@ -29,7 +29,7 @@ Easy: **13** | Medium: **5** | Hard: **0**
 
 ## 1. Array and Hashing
 
-**18 / 30 solved**
+**21 / 30 solved**
 
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
@@ -51,6 +51,9 @@ Easy: **13** | Medium: **5** | Hard: **0**
 | 347 | [Top K Frequent Elements](./01-Array-and-Hashing/0347-top-k-frequent-elements) | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 238 | [Product of Array Except Self](./01-Array-and-Hashing/0238-product-of-array-except-self) | Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/) |
 | 36 | [Valid Sudoku](./01-Array-and-Hashing/0036-valid-sudoku) | Medium | [Link](https://leetcode.com/problems/valid-sudoku/) |
+| 128 | [Longest Consecutive Sequence](./01-Array-and-Hashing/0128-longest-consecutive-sequence) | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) |
+| 560 | [Subarray Sum Equals K](./01-Array-and-Hashing/0560-subarray-sum-equals-k) | Medium | [Link](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| 287 | [Find the Duplicate Number](./01-Array-and-Hashing/0287-find-the-duplicate-number) | Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) |
 
 ## 2. Two Pointers
 

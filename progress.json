@@ -160,5 +160,32 @@
     "topic": "Array and Hashing",
     "path": "01-Array-and-Hashing/0036-valid-sudoku",
     "status": "done"
+  },
+  {
+    "id": 128,
+    "title": "Longest Consecutive Sequence",
+    "slug": "longest-consecutive-sequence",
+    "difficulty": "Medium",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0128-longest-consecutive-sequence",
+    "status": "done"
+  },
+  {
+    "id": 560,
+    "title": "Subarray Sum Equals K",
+    "slug": "subarray-sum-equals-k",
+    "difficulty": "Medium",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0560-subarray-sum-equals-k",
+    "status": "done"
+  },
+  {
+    "id": 287,
+    "title": "Find the Duplicate Number",
+    "slug": "find-the-duplicate-number",
+    "difficulty": "Medium",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0287-find-the-duplicate-number",
+    "status": "done"
   }
 ]
