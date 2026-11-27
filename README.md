@@ -2,15 +2,15 @@
 
 Most popular **interview problems**, **topic wise** and ordered **Easy to Hard**. **3 problems/day**, auto-updated with GitHub Actions.
 
-**Progress:** `[#-------------------]` **21 / 300**
+**Progress:** `[#-------------------]` **24 / 300**
 
-Easy: **13** | Medium: **8** | Hard: **0**
+Easy: **13** | Medium: **11** | Hard: **0**
 
 ## Topics
 
 | # | Topic | Solved |
 |---|-------|--------|
-| 1 | [Array and Hashing](#1-array-and-hashing) | 21 / 30 |
+| 1 | [Array and Hashing](#1-array-and-hashing) | 24 / 30 |
 | 2 | [Two Pointers](#2-two-pointers) | 0 / 15 |
 | 3 | [Strings](#3-strings) | 0 / 20 |
 | 4 | [Sliding Window](#4-sliding-window) | 0 / 11 |
@@ -29,7 +29,7 @@ Easy: **13** | Medium: **8** | Hard: **0**
 
 ## 1. Array and Hashing
 
-**21 / 30 solved**
+**24 / 30 solved**
 
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
@@ -54,6 +54,9 @@ Easy: **13** | Medium: **8** | Hard: **0**
 | 128 | [Longest Consecutive Sequence](./01-Array-and-Hashing/0128-longest-consecutive-sequence) | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | 560 | [Subarray Sum Equals K](./01-Array-and-Hashing/0560-subarray-sum-equals-k) | Medium | [Link](https://leetcode.com/problems/subarray-sum-equals-k/) |
 | 287 | [Find the Duplicate Number](./01-Array-and-Hashing/0287-find-the-duplicate-number) | Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) |
+| 73 | [Set Matrix Zeroes](./01-Array-and-Hashing/0073-set-matrix-zeroes) | Medium | [Link](https://leetcode.com/problems/set-matrix-zeroes/) |
+| 189 | [Rotate Array](./01-Array-and-Hashing/0189-rotate-array) | Medium | [Link](https://leetcode.com/problems/rotate-array/) |
+| 48 | [Rotate Image](./01-Array-and-Hashing/0048-rotate-image) | Medium | [Link](https://leetcode.com/problems/rotate-image/) |
 
 ## 2. Two Pointers
 

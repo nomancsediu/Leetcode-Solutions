@@ -187,5 +187,32 @@
     "topic": "Array and Hashing",
     "path": "01-Array-and-Hashing/0287-find-the-duplicate-number",
     "status": "done"
+  },
+  {
+    "id": 73,
+    "title": "Set Matrix Zeroes",
+    "slug": "set-matrix-zeroes",
+    "difficulty": "Medium",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0073-set-matrix-zeroes",
+    "status": "done"
+  },
+  {
+    "id": 189,
+    "title": "Rotate Array",
+    "slug": "rotate-array",
+    "difficulty": "Medium",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0189-rotate-array",
+    "status": "done"
+  },
+  {
+    "id": 48,
+    "title": "Rotate Image",
+    "slug": "rotate-image",
+    "difficulty": "Medium",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0048-rotate-image",
+    "status": "done"
   }
 ]
