@@ -2,15 +2,15 @@
 
 Most popular **interview problems**, **topic wise** and ordered **Easy to Hard**. **3 problems/day**, auto-updated with GitHub Actions.
 
-**Progress:** `[#-------------------]` **24 / 300**
+**Progress:** `[#-------------------]` **27 / 300**
 
-Easy: **13** | Medium: **11** | Hard: **0**
+Easy: **13** | Medium: **14** | Hard: **0**
 
 ## Topics
 
 | # | Topic | Solved |
 |---|-------|--------|
-| 1 | [Array and Hashing](#1-array-and-hashing) | 24 / 30 |
+| 1 | [Array and Hashing](#1-array-and-hashing) | 27 / 30 |
 | 2 | [Two Pointers](#2-two-pointers) | 0 / 15 |
 | 3 | [Strings](#3-strings) | 0 / 20 |
 | 4 | [Sliding Window](#4-sliding-window) | 0 / 11 |
@@ -29,7 +29,7 @@ Easy: **13** | Medium: **11** | Hard: **0**
 
 ## 1. Array and Hashing
 
-**24 / 30 solved**
+**27 / 30 solved**
 
 | # | Problem | Difficulty | LeetCode |
 |---|---------|------------|----------|
@@ -57,6 +57,9 @@ Easy: **13** | Medium: **11** | Hard: **0**
 | 73 | [Set Matrix Zeroes](./01-Array-and-Hashing/0073-set-matrix-zeroes) | Medium | [Link](https://leetcode.com/problems/set-matrix-zeroes/) |
 | 189 | [Rotate Array](./01-Array-and-Hashing/0189-rotate-array) | Medium | [Link](https://leetcode.com/problems/rotate-array/) |
 | 48 | [Rotate Image](./01-Array-and-Hashing/0048-rotate-image) | Medium | [Link](https://leetcode.com/problems/rotate-image/) |
+| 54 | [Spiral Matrix](./01-Array-and-Hashing/0054-spiral-matrix) | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) |
+| 75 | [Sort Colors](./01-Array-and-Hashing/0075-sort-colors) | Medium | [Link](https://leetcode.com/problems/sort-colors/) |
+| 31 | [Next Permutation](./01-Array-and-Hashing/0031-next-permutation) | Medium | [Link](https://leetcode.com/problems/next-permutation/) |
 
 ## 2. Two Pointers
 

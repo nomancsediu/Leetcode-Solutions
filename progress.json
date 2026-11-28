@@ -214,5 +214,32 @@
     "topic": "Array and Hashing",
     "path": "01-Array-and-Hashing/0048-rotate-image",
     "status": "done"
+  },
+  {
+    "id": 54,
+    "title": "Spiral Matrix",
+    "slug": "spiral-matrix",
+    "difficulty": "Medium",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0054-spiral-matrix",
+    "status": "done"
+  },
+  {
+    "id": 75,
+    "title": "Sort Colors",
+    "slug": "sort-colors",
+    "difficulty": "Medium",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0075-sort-colors",
+    "status": "done"
+  },
+  {
+    "id": 31,
+    "title": "Next Permutation",
+    "slug": "next-permutation",
+    "difficulty": "Medium",
+    "topic": "Array and Hashing",
+    "path": "01-Array-and-Hashing/0031-next-permutation",
+    "status": "done"
   }
 ]
